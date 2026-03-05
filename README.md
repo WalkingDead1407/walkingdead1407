@@ -81,9 +81,14 @@ Arch Linux User
 
 <div align="center">
 
-![pacman contribution graph](https://raw.githubusercontent.com/walkingdead1407/walkingdead1407/output/pacman-contribution-graph.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/walkingdead1407/walkingdead1407/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/walkingdead1407/walkingdead1407/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/walkingdead1407/walkingdead1407/output/pacman-contribution-graph.svg">
+</picture>
 
 </div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
