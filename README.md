@@ -91,15 +91,9 @@ Arch Linux User
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div>
 
   ![](https://github-readme-stats.vercel.app/api?username=walkingdead1407&theme=codeSTACKr&show_icons=true&hide_border=true)  ![](https://streak-stats.demolab.com?user=walkingdead1407&theme=codeSTACKr&hide_border=true)
-
-</div>
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=walkingdead1407&theme=codeSTACKr&layout=compact&hide_border=true)
 
 </div>
 
