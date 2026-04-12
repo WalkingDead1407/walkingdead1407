@@ -10,16 +10,16 @@ Arch Linux User
 
 ---
 
-# 💫 About Me
-🔭 I’m currently working on **Livabl**  
-🤝 I’m looking to collaborate on **Python, ML, or C projects**  
-📚 I’m currently learning **C and low-level programming**  
-🐧 Linux enthusiast  
-📫 Reach me at **walkingdead1407@proton.me**
+# About Me
+-  I’m currently working on **Livabl**  
+-  I’m looking to collaborate on **Python, ML, or C projects**  
+-  I’m currently learning **C and low-level programming**  
+-  Linux enthusiast  
+-  Visit my website: https://walkingdead1407.xyz
 
 ---
 
-# 🌐 Socials
+# Socials
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/walkingdead1407)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tooshar-bhardwaj-91016b382/)
@@ -30,21 +30,21 @@ Arch Linux User
 ---
 
 
-# 💻 Tech Stack
+# Tech Stack
 
-## ⚙️ Low-Level & Systems Programming
+## Low-Level & Systems Programming
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ---
 
-## 🧠 High-Level & Scripting Languages
+## High-Level & Scripting Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
 ---
 
-## 🗄️ Databases
+## Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
@@ -53,20 +53,20 @@ Arch Linux User
 
 ---
 
-## 🐧 Operating Systems
+## Operating Systems
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=flat-square&logo=windows11&logoColor=white)
 
 ---
 
-## 🖥 Desktop Environments / Display Systems
+## Desktop Environments / Display Systems
 ![GNOME](https://img.shields.io/badge/GNOME-4A86CF?style=flat-square&logo=gnome&logoColor=white)
 ![Wayland](https://img.shields.io/badge/Wayland-FFBC00?style=flat-square&logo=wayland&logoColor=black)
 
 ---
 
-## 🛠 Development Tools
+## Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=flat-square&logo=github-actions&logoColor=white)
@@ -74,22 +74,12 @@ Arch Linux User
 
 ---
 
-# 📈 Contribution Activity
+# Contribution Activity
 
 [![Tooshar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=walkingdead1407&theme=github-dark)](https://github.com/walkingdead1407)
-## Contribution Graph
 
-<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/walkingdead1407/walkingdead1407/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/walkingdead1407/walkingdead1407/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/walkingdead1407/walkingdead1407/output/pacman-contribution-graph.svg">
-</picture>
-
-</div>
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div>
 
