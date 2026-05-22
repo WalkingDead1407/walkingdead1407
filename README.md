@@ -11,9 +11,9 @@ Arch Linux User
 ---
 
 # About Me
--  I’m currently working on **Livabl**  
+-  I’m currently working on **CommitSense**  
 -  I’m looking to collaborate on **Python, ML, or C projects**  
--  I’m currently learning **C and low-level programming**  
+-  I’m currently learning **R and low-level programming**  
 -  Linux enthusiast  
 -  Visit my website: https://walkingdead1407.xyz
 
